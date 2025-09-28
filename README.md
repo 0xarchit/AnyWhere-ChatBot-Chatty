@@ -24,6 +24,21 @@ AnyWhere Chatbot ("Chatty") is a lightweight, drop-in JavaScript widget that add
 		```
 
 
+## Screenshots
+
+- Demo 1 — Chatty on GitHub Profile Analyzer tool
+
+	![Demo 1 — GitHub Profile Analyzer](assets/demo1.png)
+
+- Demo 2 — Chatty integrated on my portfolio website
+
+	![Demo 2 — Portfolio Website](assets/demo2.png)
+
+- Testing — Local testing page for Chatty
+
+	![Testing — Local Test Page](assets/testing.png)
+
+
 **How it Works**
 - The script creates a floating chat toggle in the bottom-right of the page and opens a compact chat window when clicked.
 - It uses a Shadow DOM to encapsulate styles and markup so it won't clash with your site's CSS.
@@ -174,4 +189,4 @@ Configuration notes:
 - Persistence options: opt-in localStorage persistence and export/import chat transcripts.
 
 ## License
-See [License](License)
+See [LICENSE](LICENSE)
